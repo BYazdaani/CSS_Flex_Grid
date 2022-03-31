@@ -1,0 +1,16 @@
+body {
+    background: rgb(225, 218, 245);
+}
+.menu {
+    border-radius: 15px;
+    background: rgb(255, 255, 255);
+    display:flex ;
+    justify-content: space-between;
+    
+}
+a {
+    border: solid 1px;
+    background: #b3cedd;
+    border-radius: 15px;
+    padding: 5px;
+}
